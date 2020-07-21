@@ -1,0 +1,4 @@
+Un microservice est plus scalable qu'une application monolithique car dans le contexte monolithique, un problème peut faire casser toute l'application tandis que
+le microservice n'impacte que lui-même, donc le périmètre est beaucoup plus restreint, ce qui permet un débogage plus rapide.
+De par son périmètre restreint, l'implémentation de nouvelle fonctionnalité, ou la maintenabilité du service en lui-même est beaucoup plus facile.
+On peut y retrouver aussi moins d'effets de bord dans une architecture microservices car on y retrouve moins de couplages.

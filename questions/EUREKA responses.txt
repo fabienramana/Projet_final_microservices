@@ -1,0 +1,3 @@
+Eureka est une application qui contient les informations de toutes les applications côté client.
+Chaque microservice s'enregistrera sur Eureka et celui-ci est capable de reconnaitre toutes les applications client, sur quels ports ils sont utilisés,
+et via quels IP.

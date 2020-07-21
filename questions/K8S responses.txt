@@ -1,0 +1,2 @@
+Kebernetes est un système open source qui permet de virtualiser des conteneurs d'application, ce qui permet d'automatiser le déploiement (par l'intégration continue par exemple).
+Il est similaire à Docker sur ce point.
