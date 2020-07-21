@@ -1,6 +1,6 @@
-package fr.esgi.jal4.si.ms.assessment;
+package fr.esgi.jal4.si.ms.assessment.controllers;
 
-import org.apache.coyote.Response;
+import fr.esgi.jal4.si.ms.assessment.models.TwoString;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
